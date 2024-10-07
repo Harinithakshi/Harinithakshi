@@ -1,3 +1,7 @@
+https://portal.azure.com/#resource/subscriptions/673e8485-3246-4a00-b4ee-29da61c2bef1/resourceGroups/madharinigroup/providers/Microsoft.Compute/virtualMachines/madhariniVM
+https://portal.azure.com/#@harinithakshinagmail.onmicrosoft.com/asset/Microsoft_Azure_Network/PublicIpAddress/subscriptions/673e8485-3246-4a00-b4ee-29da61c2bef1/resourceGroups/madharinigroup/providers/Microsoft.Network/publicIPAddresses/madhariniVM-ip
+https://portal.azure.com/#@harinithakshinagmail.onmicrosoft.com/asset/HubsExtension/ResourceGroups/subscriptions/673e8485-3246-4a00-b4ee-29da61c2bef1/resourceGroups/madharinigroup
+https://portal.azure.com/#@harinithakshinagmail.onmicrosoft.com/asset/Microsoft_OperationsManagementSuite_Workspace/Workspace/subscriptions/673e8485-3246-4a00-b4ee-29da61c2bef1/resourceGroups/madharinigroup/providers/Microsoft.OperationalInsights/workspaces/Harini
 https://portal.azure.com/#@harinithakshinagmail.onmicrosoft.com/resource/subscriptions/673e8485-3246-4a00-b4ee-29da61c2bef1/resourceGroups/madharinigroup/providers/Microsoft.Compute/virtualMachines/madhariniVM/overview-
 **Harinithakshi/Harinithakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
