@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+https://portal.azure.com/#@harinithakshinagmail.onmicrosoft.com/resource/subscriptions/673e8485-3246-4a00-b4ee-29da61c2bef1/resourceGroups/madharinigroup/providers/Microsoft.Compute/virtualMachines/madhariniVM/overview-
 **Harinithakshi/Harinithakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
